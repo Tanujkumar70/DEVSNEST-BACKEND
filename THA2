@@ -9,4 +9,4 @@ CREATE TABLE COMPAANY{
 ID INT NOT NULL,        ->it will create a table in database having ID,NAME,AGE And ADDRES
 AGE INT
 }
-postgres=#
+
