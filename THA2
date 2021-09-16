@@ -1,0 +1,9 @@
+postgres=# CREATE SCHEMA information;
+CREATE SCHEMA
+
+postgres=# SET search_path TO information;
+SET
+
+postgres=# CREATE TABLE students(studentid int,studentname varchar(255));
+CREATE TABLE
+postgres=#
